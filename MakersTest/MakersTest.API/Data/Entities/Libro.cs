@@ -9,7 +9,7 @@ namespace MakersTest.API.Data.Entities
 
     public class Libro
     {
-
+        [Key]
         public int IdLibro { get; set; }
 
         [Required]
@@ -18,8 +18,10 @@ namespace MakersTest.API.Data.Entities
 
         public DateTime Fecha { get; set; }
 
+        [DisplayFormat(DataFormatString = "{0:C2}")]
         public decimal Costo { get; set; }
-         
+
+        [DisplayFormat(DataFormatString = "{0:C2}")]
         public decimal PrecioSugerido { get; set; }
 
         public string Autor { get; set; }

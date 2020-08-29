@@ -5,6 +5,7 @@ namespace MakersTest.API.Data.Entities
 
     public class Editorial
     {
+        [Key]
         public int IdEditorial { get; set; }
 
         [Required]
