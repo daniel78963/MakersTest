@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakersTest.Web", "MakersTest.Web\MakersTest.Web.csproj", "{EEB89F24-0B6A-41D3-8E71-B3FA565A621A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakersTest.API", "MakersTest.API\MakersTest.API.csproj", "{07459844-1BD7-4C74-80BA-F2135C73AA7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB89F24-0B6A-41D3-8E71-B3FA565A621A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB89F24-0B6A-41D3-8E71-B3FA565A621A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB89F24-0B6A-41D3-8E71-B3FA565A621A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB89F24-0B6A-41D3-8E71-B3FA565A621A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07459844-1BD7-4C74-80BA-F2135C73AA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07459844-1BD7-4C74-80BA-F2135C73AA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07459844-1BD7-4C74-80BA-F2135C73AA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07459844-1BD7-4C74-80BA-F2135C73AA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B24D510-89A7-4A66-965D-1F88E45F710D}
+	EndGlobalSection
+EndGlobal
