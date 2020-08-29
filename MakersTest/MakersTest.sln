@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakersTest.APIMakers", "Mak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakersTest.Common", "MakersTest.Common\MakersTest.Common.csproj", "{E41608AF-3AD8-4831-BEA3-FD41A59AAB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakersTest.Unit.Test", "MakersTest.Unit.Test\MakersTest.Unit.Test.csproj", "{EB809FEB-6268-4F3A-AF7B-AC0254E5F7AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakersTest.Unit.Tests", "MakersTest.Unit.Tests\MakersTest.Unit.Tests.csproj", "{031E744C-7F19-4AE6-AFBB-0E570014A73A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E41608AF-3AD8-4831-BEA3-FD41A59AAB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E41608AF-3AD8-4831-BEA3-FD41A59AAB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E41608AF-3AD8-4831-BEA3-FD41A59AAB3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB809FEB-6268-4F3A-AF7B-AC0254E5F7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB809FEB-6268-4F3A-AF7B-AC0254E5F7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB809FEB-6268-4F3A-AF7B-AC0254E5F7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB809FEB-6268-4F3A-AF7B-AC0254E5F7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031E744C-7F19-4AE6-AFBB-0E570014A73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031E744C-7F19-4AE6-AFBB-0E570014A73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031E744C-7F19-4AE6-AFBB-0E570014A73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031E744C-7F19-4AE6-AFBB-0E570014A73A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
