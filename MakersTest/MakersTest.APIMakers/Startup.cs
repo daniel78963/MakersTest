@@ -35,6 +35,7 @@ namespace MakersTest.APIMakers
             });
 
             services.AddScoped<IEditorialesRepository, EditorialesRepository>();
+            services.AddScoped<ILibrosRepository, LibrosRepository>();
 
             services.AddTransient<SeedDb>();
 
